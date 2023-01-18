@@ -1,0 +1,39 @@
+.pagina{
+	width: 780px;
+	margin: auto;
+	font-family: 'Source sans pro', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', 'Segoe UI', Tahoma, Verdana, sans-serif;
+	font-size: 16px;
+ }
+
+.informacion{
+	height: 250px;
+}
+
+.info{
+	float: left;
+}
+
+.foto{
+	float: right;
+}
+
+.seccion{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+
+.seccionizq{
+	float: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.seccionder{
+	margin-left: 150px;
+}
+
+h2{
+	font-size: 28px;
+	color:coral;
+	border-bottom: 3px solid coral;
+}
